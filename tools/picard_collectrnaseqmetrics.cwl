@@ -111,8 +111,6 @@ outputs:
     outputBinding:
       glob: $(inputs.INPUT.nameroot).pdf
 
-arguments:
-
 
 baseCommand: [java]
 
